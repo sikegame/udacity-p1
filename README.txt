@@ -26,4 +26,4 @@ CONTACT
 
 Please send any bug reports or feedbacks to
 
-shinsuke.ikegame@gmail.com
+Email: no_junk_email@gmail.com
